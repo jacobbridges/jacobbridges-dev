@@ -2,6 +2,12 @@
 	export let name;
 </script>
 
+<svelte:head>
+	<title>Jacob Bridges</title>
+	<meta name="robots" content="noindex nofollow" />
+	<html lang="en" />
+</svelte:head>
+
 
 <div class="layout">
 	<div class="layout__graphic">
@@ -13,8 +19,8 @@
 	<div class="layout__information">
 	  <div class="vcard">
 		<div class="socials"><a class="no-underline" href="https://storage.googleapis.com/space.jacobbridges.pw/upload/filedrops/Jacob%20Bridges%20-%202021.pdf" title="Download Resume" target="_blank"><i class="fas fa-file-download"></i></a><a class="no-underline" href="https://github.com/jacobbridges" title="Jacob Bridges Github"><i class="fab fa-github"></i></a><a class="no-underline" href="https://www.linkedin.com/in/jacobbridges" title="Jacob Bridges LinkedIn"><i class="fab fa-linkedin"></i></a><a class="no-underline" href="mailto:info@jacobbridges.dev" title="Email Jacob Bridges"><i class="fas fa-envelope"></i></a></div>
-		<h1>Jacob Bridges<small>Python Engineer in Huntsville AL</small>
-		</h1><a class="button button__primary call-to-action" href="http://jacobbridges.github.io/">Read my blog</a>
+		<h1>Jacob Bridges<small>Python Engineer in Huntsville AL</small></h1>
+		<!--<a class="button button__primary call-to-action" href="http://jacobbridges.github.io/">Read my blog</a>-->
 		<h2>Work Experience</h2>
 		<ul class="flat-list">
 			<li>
