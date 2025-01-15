@@ -18,13 +18,13 @@
 	</div>
 	<div class="layout__information">
 	  <div class="vcard">
-		<div class="socials"><a class="no-underline" href="https://storage.googleapis.com/space.jacobbridges.pw/upload/filedrops/Jacob%20Bridges%20-%202024%20Resume.pdf" title="Download Resume" target="_blank"><i class="fas fa-file-download"></i></a><a class="no-underline" href="https://github.com/jacobbridges" title="Jacob Bridges Github"><i class="fab fa-github"></i></a><a class="no-underline" href="https://www.linkedin.com/in/jacobbridges" title="Jacob Bridges LinkedIn"><i class="fab fa-linkedin"></i></a><a class="no-underline" href="mailto:me@jacobbridges.dev" title="Email Jacob Bridges"><i class="fas fa-envelope"></i></a></div>
+		<div class="socials"><a class="no-underline" href="https://storage.googleapis.com/space.jacobbridges.pw/upload/filedrops/Jacob%20Bridges%20-%202025%20Resume.pdf" title="Download Resume" target="_blank"><i class="fas fa-file-download"></i></a><a class="no-underline" href="https://github.com/jacobbridges" title="Jacob Bridges Github"><i class="fab fa-github"></i></a><a class="no-underline" href="https://www.linkedin.com/in/jacobbridges" title="Jacob Bridges LinkedIn"><i class="fab fa-linkedin"></i></a><a class="no-underline" href="mailto:me@jacobbridges.dev" title="Email Jacob Bridges"><i class="fas fa-envelope"></i></a></div>
 		<h1>Jacob Bridges<small>Data Engineer in Huntsville AL</small></h1>
 		<!--<a class="button button__primary call-to-action" href="http://jacobbridges.github.io/">Read my blog</a>-->
 		<h2>Work Experience</h2>
 		<ul class="flat-list">
       <li>
-				<a href="https://amfamlabs.com/about/">American Family Labs</a> (2022 - Present)
+				<a href="https://amfamlabs.com/about/">AFI Data Science Lab</a> (2022 - 2024)
 			</li>
 			<li>
 				<a href="https://www.invitae.com/en">Invitae</a> (2021 - 2022)
@@ -33,10 +33,10 @@
 				<a href="https://cyware.com/">Cyware Labs</a> (2020 - 2021)
 			</li>
 			<li>
-				<a href="https://www.fandom.com/about">Fandom</a> (2017 - 2020)
+				<a href="https://www.fandom.com/about">Amazon</a> (2017 - 2020)
 			</li>
 			<li> 
-				<a href="https://www.excelmicro.com/">Excel Micro</a> (2013 - 2017)
+				<a href="https://www.excelmicro.com/">J2 Global</a> (2013 - 2017)
 			</li>
 		</ul>
 		<h2>Education</h2>
